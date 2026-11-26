@@ -4,120 +4,120 @@
 
 ## Segments
 
-- [AI in Retail Banking](https://atlas.deepanjanguha.work/segment-retail-banking.html): 39 deployments
-- [AI in Private Banking](https://atlas.deepanjanguha.work/segment-private-banking.html): 15 deployments
-- [AI in Corporate Banking](https://atlas.deepanjanguha.work/segment-corporate-banking.html): 35 deployments
-- [AI in Institutional Banking](https://atlas.deepanjanguha.work/segment-institutional-banking.html): 13 deployments
-- [AI in Treasury](https://atlas.deepanjanguha.work/segment-treasury.html): 14 deployments
-- [AI in Trade Finance](https://atlas.deepanjanguha.work/segment-trade-finance.html): 12 deployments
-- [AI in Payments & Remittances](https://atlas.deepanjanguha.work/segment-payments-remittances.html): 23 deployments
-- [AI in Contact Centre](https://atlas.deepanjanguha.work/segment-contact-centre.html): 56 deployments
-- [AI in Enterprise-wide](https://atlas.deepanjanguha.work/segment-enterprise-wide.html): 111 deployments
+- [AI in Retail Banking](https://bankingonai.deepanjanguha.work/segment-retail-banking.html): 39 deployments
+- [AI in Private Banking](https://bankingonai.deepanjanguha.work/segment-private-banking.html): 15 deployments
+- [AI in Corporate Banking](https://bankingonai.deepanjanguha.work/segment-corporate-banking.html): 35 deployments
+- [AI in Institutional Banking](https://bankingonai.deepanjanguha.work/segment-institutional-banking.html): 13 deployments
+- [AI in Treasury](https://bankingonai.deepanjanguha.work/segment-treasury.html): 14 deployments
+- [AI in Trade Finance](https://bankingonai.deepanjanguha.work/segment-trade-finance.html): 12 deployments
+- [AI in Payments & Remittances](https://bankingonai.deepanjanguha.work/segment-payments-remittances.html): 23 deployments
+- [AI in Contact Centre](https://bankingonai.deepanjanguha.work/segment-contact-centre.html): 56 deployments
+- [AI in Enterprise-wide](https://bankingonai.deepanjanguha.work/segment-enterprise-wide.html): 111 deployments
 
 ## Banks
 
-- [JPMorgan Chase](https://atlas.deepanjanguha.work/bank-jpmorgan-chase.html): rank #1, USA, 6 AI deployments tracked
-- [China Construction Bank](https://atlas.deepanjanguha.work/bank-china-construction-bank.html): rank #2, China, 6 AI deployments tracked
-- [Agricultural Bank of China](https://atlas.deepanjanguha.work/bank-agricultural-bank-of-china.html): rank #3, China, 5 AI deployments tracked
-- [Bank of China](https://atlas.deepanjanguha.work/bank-bank-of-china.html): rank #4, China, 6 AI deployments tracked
-- [ICBC](https://atlas.deepanjanguha.work/bank-icbc.html): rank #5, China, 6 AI deployments tracked
-- [Bank of America](https://atlas.deepanjanguha.work/bank-bank-of-america.html): rank #6, USA, 7 AI deployments tracked
-- [HSBC](https://atlas.deepanjanguha.work/bank-hsbc.html): rank #7, UK, 7 AI deployments tracked
-- [Morgan Stanley](https://atlas.deepanjanguha.work/bank-morgan-stanley.html): rank #8, USA, 5 AI deployments tracked
-- [Royal Bank of Canada](https://atlas.deepanjanguha.work/bank-royal-bank-of-canada.html): rank #9, Canada, 6 AI deployments tracked
-- [Wells Fargo](https://atlas.deepanjanguha.work/bank-wells-fargo.html): rank #10, USA, 5 AI deployments tracked
-- [Goldman Sachs](https://atlas.deepanjanguha.work/bank-goldman-sachs.html): rank #11, USA, 5 AI deployments tracked
-- [Mitsubishi UFJ Financial](https://atlas.deepanjanguha.work/bank-mitsubishi-ufj-financial.html): rank #12, Japan, 7 AI deployments tracked
-- [Toronto-Dominion Bank](https://atlas.deepanjanguha.work/bank-toronto-dominion-bank.html): rank #13, Canada, 5 AI deployments tracked
-- [Citigroup](https://atlas.deepanjanguha.work/bank-citigroup.html): rank #14, USA, 8 AI deployments tracked
-- [Commonwealth Bank](https://atlas.deepanjanguha.work/bank-commonwealth-bank.html): rank #15, Australia, 7 AI deployments tracked
-- [China Merchants Bank](https://atlas.deepanjanguha.work/bank-china-merchants-bank.html): rank #16, China, 4 AI deployments tracked
-- [Santander](https://atlas.deepanjanguha.work/bank-santander.html): rank #17, Spain, 8 AI deployments tracked
-- [DBS Group](https://atlas.deepanjanguha.work/bank-dbs-group.html): rank #18, Singapore, 8 AI deployments tracked
-- [Sumitomo Mitsui Financial Group](https://atlas.deepanjanguha.work/bank-sumitomo-mitsui-financial-group.html): rank #19, Japan, 4 AI deployments tracked
-- [HDFC Bank](https://atlas.deepanjanguha.work/bank-hdfc-bank.html): rank #20, India, 7 AI deployments tracked
-- [UBS](https://atlas.deepanjanguha.work/bank-ubs.html): rank #21, Switzerland, 4 AI deployments tracked
-- [BBVA](https://atlas.deepanjanguha.work/bank-bbva.html): rank #22, Spain, 4 AI deployments tracked
-- [ICICI Bank](https://atlas.deepanjanguha.work/bank-icici-bank.html): rank #23, India, 3 AI deployments tracked
-- [Bank of Communications](https://atlas.deepanjanguha.work/bank-bank-of-communications.html): rank #24, China, 2 AI deployments tracked
-- [UniCredit](https://atlas.deepanjanguha.work/bank-unicredit.html): rank #25, Italy, 4 AI deployments tracked
-- [State Bank of India](https://atlas.deepanjanguha.work/bank-state-bank-of-india.html): rank #26, India, 4 AI deployments tracked
-- [Mizuho Financial Group](https://atlas.deepanjanguha.work/bank-mizuho-financial-group.html): rank #27, Japan, 2 AI deployments tracked
-- [Bank of Montreal](https://atlas.deepanjanguha.work/bank-bank-of-montreal.html): rank #28, Canada, 3 AI deployments tracked
-- [Capital One](https://atlas.deepanjanguha.work/bank-capital-one.html): rank #29, USA, 2 AI deployments tracked
-- [BNP Paribas](https://atlas.deepanjanguha.work/bank-bnp-paribas.html): rank #30, France, 3 AI deployments tracked
-- [Postal Savings Bank of China](https://atlas.deepanjanguha.work/bank-postal-savings-bank-of-china.html): rank #31, China, 3 AI deployments tracked
-- [Intesa Sanpaolo](https://atlas.deepanjanguha.work/bank-intesa-sanpaolo.html): rank #32, Italy, 2 AI deployments tracked
-- [Scotiabank](https://atlas.deepanjanguha.work/bank-scotiabank.html): rank #33, Canada, 3 AI deployments tracked
-- [BNY Mellon](https://atlas.deepanjanguha.work/bank-bny-mellon.html): rank #34, USA, 3 AI deployments tracked
-- [Al Rajhi Bank](https://atlas.deepanjanguha.work/bank-al-rajhi-bank.html): rank #35, Saudi Arabia, 2 AI deployments tracked
-- [CIBC](https://atlas.deepanjanguha.work/bank-cibc.html): rank #36, Canada, 2 AI deployments tracked
-- [OCBC Bank](https://atlas.deepanjanguha.work/bank-ocbc-bank.html): rank #37, Singapore, 3 AI deployments tracked
-- [U.S. Bancorp](https://atlas.deepanjanguha.work/bank-u-s-bancorp.html): rank #38, USA, 2 AI deployments tracked
-- [PNC Financial Services](https://atlas.deepanjanguha.work/bank-pnc-financial-services.html): rank #39, USA, 2 AI deployments tracked
-- [CaixaBank](https://atlas.deepanjanguha.work/bank-caixabank.html): rank #40, Spain, 2 AI deployments tracked
-- [ING](https://atlas.deepanjanguha.work/bank-ing.html): rank #41, Netherlands, 3 AI deployments tracked
-- [Westpac Banking](https://atlas.deepanjanguha.work/bank-westpac-banking.html): rank #42, Australia, 3 AI deployments tracked
-- [CITIC Bank](https://atlas.deepanjanguha.work/bank-citic-bank.html): rank #43, China, 3 AI deployments tracked
-- [Sberbank](https://atlas.deepanjanguha.work/bank-sberbank.html): rank #44, Russia, 2 AI deployments tracked
-- [ANZ Bank](https://atlas.deepanjanguha.work/bank-anz-bank.html): rank #45, Australia, 2 AI deployments tracked
-- [National Australia Bank](https://atlas.deepanjanguha.work/bank-national-australia-bank.html): rank #46, Australia, 2 AI deployments tracked
-- [Itaú Unibanco](https://atlas.deepanjanguha.work/bank-itau-unibanco.html): rank #47, Brazil, 3 AI deployments tracked
-- [Barclays](https://atlas.deepanjanguha.work/bank-barclays.html): rank #48, UK, 4 AI deployments tracked
-- [Lloyds Banking Group](https://atlas.deepanjanguha.work/bank-lloyds-banking-group.html): rank #49, UK, 3 AI deployments tracked
-- [Japan Post Bank](https://atlas.deepanjanguha.work/bank-japan-post-bank.html): rank #50, Japan, 1 AI deployments tracked
-- [First Abu Dhabi Bank](https://atlas.deepanjanguha.work/bank-first-abu-dhabi-bank.html): rank #51, UAE, 3 AI deployments tracked
-- [Industrial Bank](https://atlas.deepanjanguha.work/bank-industrial-bank.html): rank #52, China, 1 AI deployments tracked
-- [Bank of China (Hong Kong)](https://atlas.deepanjanguha.work/bank-bank-of-china-hong-kong.html): rank #53, Hong Kong, 3 AI deployments tracked
-- [Deutsche Bank](https://atlas.deepanjanguha.work/bank-deutsche-bank.html): rank #54, Germany, 5 AI deployments tracked
-- [NatWest Group](https://atlas.deepanjanguha.work/bank-natwest-group.html): rank #55, UK, 4 AI deployments tracked
-- [Emirates NBD](https://atlas.deepanjanguha.work/bank-emirates-nbd.html): rank #56, UAE, 2 AI deployments tracked
-- [Nordea Bank](https://atlas.deepanjanguha.work/bank-nordea-bank.html): rank #57, Finland, 2 AI deployments tracked
-- [Saudi National Bank](https://atlas.deepanjanguha.work/bank-saudi-national-bank.html): rank #58, Saudi Arabia, 0 AI deployments tracked
-- [Truist Financial](https://atlas.deepanjanguha.work/bank-truist-financial.html): rank #59, USA, 2 AI deployments tracked
-- [Kotak Mahindra Bank](https://atlas.deepanjanguha.work/bank-kotak-mahindra-bank.html): rank #60, India, 2 AI deployments tracked
-- [National Bank of Canada](https://atlas.deepanjanguha.work/bank-national-bank-of-canada.html): rank #61, Canada, 2 AI deployments tracked
-- [Standard Chartered](https://atlas.deepanjanguha.work/bank-standard-chartered.html): rank #62, UK, 5 AI deployments tracked
-- [Shanghai Pudong Development Bank](https://atlas.deepanjanguha.work/bank-shanghai-pudong-development-bank.html): rank #63, China, 3 AI deployments tracked
-- [Crédit Agricole](https://atlas.deepanjanguha.work/bank-credit-agricole.html): rank #64, France, 3 AI deployments tracked
-- [Société Générale](https://atlas.deepanjanguha.work/bank-societe-generale.html): rank #65, France, 3 AI deployments tracked
-- [Axis Bank](https://atlas.deepanjanguha.work/bank-axis-bank.html): rank #66, India, 3 AI deployments tracked
-- [Erste Group Bank](https://atlas.deepanjanguha.work/bank-erste-group-bank.html): rank #67, Austria, 3 AI deployments tracked
-- [Fifth Third Bank](https://atlas.deepanjanguha.work/bank-fifth-third-bank.html): rank #68, USA, 3 AI deployments tracked
-- [Kuwait Finance House](https://atlas.deepanjanguha.work/bank-kuwait-finance-house.html): rank #69, Kuwait, 2 AI deployments tracked
-- [QNB (Qatar National Bank)](https://atlas.deepanjanguha.work/bank-qnb-qatar-national-bank.html): rank #70, Qatar, 2 AI deployments tracked
-- [UOB](https://atlas.deepanjanguha.work/bank-uob.html): rank #71, Singapore, 3 AI deployments tracked
-- [Swedbank](https://atlas.deepanjanguha.work/bank-swedbank.html): rank #72, Sweden, 3 AI deployments tracked
-- [State Street](https://atlas.deepanjanguha.work/bank-state-street.html): rank #73, USA, 1 AI deployments tracked
-- [Danske Bank](https://atlas.deepanjanguha.work/bank-danske-bank.html): rank #74, Denmark, 3 AI deployments tracked
-- [Commerzbank](https://atlas.deepanjanguha.work/bank-commerzbank.html): rank #75, Germany, 3 AI deployments tracked
-- [Abu Dhabi Commercial Bank (ADCB)](https://atlas.deepanjanguha.work/bank-abu-dhabi-commercial-bank-adcb.html): rank #76, UAE, 2 AI deployments tracked
-- [SEB (Skandinaviska Enskilda Banken)](https://atlas.deepanjanguha.work/bank-seb-skandinaviska-enskilda-banken.html): rank #77, Sweden, 3 AI deployments tracked
-- [Bank Central Asia](https://atlas.deepanjanguha.work/bank-bank-central-asia.html): rank #78, Indonesia, 1 AI deployments tracked
-- [KB Financial Group](https://atlas.deepanjanguha.work/bank-kb-financial-group.html): rank #79, South Korea, 3 AI deployments tracked
-- [Bank of Jiangsu](https://atlas.deepanjanguha.work/bank-bank-of-jiangsu.html): rank #80, China, 2 AI deployments tracked
-- [Ping An Bank](https://atlas.deepanjanguha.work/bank-ping-an-bank.html): rank #81, China, 2 AI deployments tracked
-- [Banco Santander Brasil](https://atlas.deepanjanguha.work/bank-banco-santander-brasil.html): rank #82, Brazil, 3 AI deployments tracked
-- [BTG Pactual](https://atlas.deepanjanguha.work/bank-btg-pactual.html): rank #83, Brazil, 3 AI deployments tracked
-- [Banca Monte dei Paschi di Siena](https://atlas.deepanjanguha.work/bank-banca-monte-dei-paschi-di-siena.html): rank #84, Italy, 2 AI deployments tracked
-- [Bank of Ningbo](https://atlas.deepanjanguha.work/bank-bank-of-ningbo.html): rank #85, China, 2 AI deployments tracked
-- [ABN AMRO](https://atlas.deepanjanguha.work/bank-abn-amro.html): rank #86, Netherlands, 3 AI deployments tracked
-- [PKO Bank Polski](https://atlas.deepanjanguha.work/bank-pko-bank-polski.html): rank #87, Poland, 3 AI deployments tracked
-- [Maybank](https://atlas.deepanjanguha.work/bank-maybank.html): rank #88, Malaysia, 4 AI deployments tracked
-- [Bank Leumi](https://atlas.deepanjanguha.work/bank-bank-leumi.html): rank #89, Israel, 1 AI deployments tracked
-- [Svenska Handelsbanken](https://atlas.deepanjanguha.work/bank-svenska-handelsbanken.html): rank #90, Sweden, 0 AI deployments tracked
-- [M&T Bank](https://atlas.deepanjanguha.work/bank-m-t-bank.html): rank #91, USA, 1 AI deployments tracked
-- [Capitec Bank](https://atlas.deepanjanguha.work/bank-capitec-bank.html): rank #92, South Africa, 3 AI deployments tracked
-- [Huntington Bancshares](https://atlas.deepanjanguha.work/bank-huntington-bancshares.html): rank #93, USA, 3 AI deployments tracked
-- [China Everbright Bank](https://atlas.deepanjanguha.work/bank-china-everbright-bank.html): rank #94, China, 1 AI deployments tracked
-- [FirstRand](https://atlas.deepanjanguha.work/bank-firstrand.html): rank #95, South Africa, 2 AI deployments tracked
-- [OTP Bank](https://atlas.deepanjanguha.work/bank-otp-bank.html): rank #96, Hungary, 2 AI deployments tracked
-- [Resona Holdings](https://atlas.deepanjanguha.work/bank-resona-holdings.html): rank #97, Japan, 1 AI deployments tracked
-- [Credicorp](https://atlas.deepanjanguha.work/bank-credicorp.html): rank #98, Bermuda, 1 AI deployments tracked
-- [Bank Hapoalim](https://atlas.deepanjanguha.work/bank-bank-hapoalim.html): rank #99, Israel, 1 AI deployments tracked
-- [BPER Banca](https://atlas.deepanjanguha.work/bank-bper-banca.html): rank #100, Italy, 0 AI deployments tracked
+- [JPMorgan Chase](https://bankingonai.deepanjanguha.work/bank-jpmorgan-chase.html): rank #1, USA, 6 AI deployments tracked
+- [China Construction Bank](https://bankingonai.deepanjanguha.work/bank-china-construction-bank.html): rank #2, China, 6 AI deployments tracked
+- [Agricultural Bank of China](https://bankingonai.deepanjanguha.work/bank-agricultural-bank-of-china.html): rank #3, China, 5 AI deployments tracked
+- [Bank of China](https://bankingonai.deepanjanguha.work/bank-bank-of-china.html): rank #4, China, 6 AI deployments tracked
+- [ICBC](https://bankingonai.deepanjanguha.work/bank-icbc.html): rank #5, China, 6 AI deployments tracked
+- [Bank of America](https://bankingonai.deepanjanguha.work/bank-bank-of-america.html): rank #6, USA, 7 AI deployments tracked
+- [HSBC](https://bankingonai.deepanjanguha.work/bank-hsbc.html): rank #7, UK, 7 AI deployments tracked
+- [Morgan Stanley](https://bankingonai.deepanjanguha.work/bank-morgan-stanley.html): rank #8, USA, 5 AI deployments tracked
+- [Royal Bank of Canada](https://bankingonai.deepanjanguha.work/bank-royal-bank-of-canada.html): rank #9, Canada, 6 AI deployments tracked
+- [Wells Fargo](https://bankingonai.deepanjanguha.work/bank-wells-fargo.html): rank #10, USA, 5 AI deployments tracked
+- [Goldman Sachs](https://bankingonai.deepanjanguha.work/bank-goldman-sachs.html): rank #11, USA, 5 AI deployments tracked
+- [Mitsubishi UFJ Financial](https://bankingonai.deepanjanguha.work/bank-mitsubishi-ufj-financial.html): rank #12, Japan, 7 AI deployments tracked
+- [Toronto-Dominion Bank](https://bankingonai.deepanjanguha.work/bank-toronto-dominion-bank.html): rank #13, Canada, 5 AI deployments tracked
+- [Citigroup](https://bankingonai.deepanjanguha.work/bank-citigroup.html): rank #14, USA, 8 AI deployments tracked
+- [Commonwealth Bank](https://bankingonai.deepanjanguha.work/bank-commonwealth-bank.html): rank #15, Australia, 7 AI deployments tracked
+- [China Merchants Bank](https://bankingonai.deepanjanguha.work/bank-china-merchants-bank.html): rank #16, China, 4 AI deployments tracked
+- [Santander](https://bankingonai.deepanjanguha.work/bank-santander.html): rank #17, Spain, 8 AI deployments tracked
+- [DBS Group](https://bankingonai.deepanjanguha.work/bank-dbs-group.html): rank #18, Singapore, 8 AI deployments tracked
+- [Sumitomo Mitsui Financial Group](https://bankingonai.deepanjanguha.work/bank-sumitomo-mitsui-financial-group.html): rank #19, Japan, 4 AI deployments tracked
+- [HDFC Bank](https://bankingonai.deepanjanguha.work/bank-hdfc-bank.html): rank #20, India, 7 AI deployments tracked
+- [UBS](https://bankingonai.deepanjanguha.work/bank-ubs.html): rank #21, Switzerland, 4 AI deployments tracked
+- [BBVA](https://bankingonai.deepanjanguha.work/bank-bbva.html): rank #22, Spain, 4 AI deployments tracked
+- [ICICI Bank](https://bankingonai.deepanjanguha.work/bank-icici-bank.html): rank #23, India, 3 AI deployments tracked
+- [Bank of Communications](https://bankingonai.deepanjanguha.work/bank-bank-of-communications.html): rank #24, China, 2 AI deployments tracked
+- [UniCredit](https://bankingonai.deepanjanguha.work/bank-unicredit.html): rank #25, Italy, 4 AI deployments tracked
+- [State Bank of India](https://bankingonai.deepanjanguha.work/bank-state-bank-of-india.html): rank #26, India, 4 AI deployments tracked
+- [Mizuho Financial Group](https://bankingonai.deepanjanguha.work/bank-mizuho-financial-group.html): rank #27, Japan, 2 AI deployments tracked
+- [Bank of Montreal](https://bankingonai.deepanjanguha.work/bank-bank-of-montreal.html): rank #28, Canada, 3 AI deployments tracked
+- [Capital One](https://bankingonai.deepanjanguha.work/bank-capital-one.html): rank #29, USA, 2 AI deployments tracked
+- [BNP Paribas](https://bankingonai.deepanjanguha.work/bank-bnp-paribas.html): rank #30, France, 3 AI deployments tracked
+- [Postal Savings Bank of China](https://bankingonai.deepanjanguha.work/bank-postal-savings-bank-of-china.html): rank #31, China, 3 AI deployments tracked
+- [Intesa Sanpaolo](https://bankingonai.deepanjanguha.work/bank-intesa-sanpaolo.html): rank #32, Italy, 2 AI deployments tracked
+- [Scotiabank](https://bankingonai.deepanjanguha.work/bank-scotiabank.html): rank #33, Canada, 3 AI deployments tracked
+- [BNY Mellon](https://bankingonai.deepanjanguha.work/bank-bny-mellon.html): rank #34, USA, 3 AI deployments tracked
+- [Al Rajhi Bank](https://bankingonai.deepanjanguha.work/bank-al-rajhi-bank.html): rank #35, Saudi Arabia, 2 AI deployments tracked
+- [CIBC](https://bankingonai.deepanjanguha.work/bank-cibc.html): rank #36, Canada, 2 AI deployments tracked
+- [OCBC Bank](https://bankingonai.deepanjanguha.work/bank-ocbc-bank.html): rank #37, Singapore, 3 AI deployments tracked
+- [U.S. Bancorp](https://bankingonai.deepanjanguha.work/bank-u-s-bancorp.html): rank #38, USA, 2 AI deployments tracked
+- [PNC Financial Services](https://bankingonai.deepanjanguha.work/bank-pnc-financial-services.html): rank #39, USA, 2 AI deployments tracked
+- [CaixaBank](https://bankingonai.deepanjanguha.work/bank-caixabank.html): rank #40, Spain, 2 AI deployments tracked
+- [ING](https://bankingonai.deepanjanguha.work/bank-ing.html): rank #41, Netherlands, 3 AI deployments tracked
+- [Westpac Banking](https://bankingonai.deepanjanguha.work/bank-westpac-banking.html): rank #42, Australia, 3 AI deployments tracked
+- [CITIC Bank](https://bankingonai.deepanjanguha.work/bank-citic-bank.html): rank #43, China, 3 AI deployments tracked
+- [Sberbank](https://bankingonai.deepanjanguha.work/bank-sberbank.html): rank #44, Russia, 2 AI deployments tracked
+- [ANZ Bank](https://bankingonai.deepanjanguha.work/bank-anz-bank.html): rank #45, Australia, 2 AI deployments tracked
+- [National Australia Bank](https://bankingonai.deepanjanguha.work/bank-national-australia-bank.html): rank #46, Australia, 2 AI deployments tracked
+- [Itaú Unibanco](https://bankingonai.deepanjanguha.work/bank-itau-unibanco.html): rank #47, Brazil, 3 AI deployments tracked
+- [Barclays](https://bankingonai.deepanjanguha.work/bank-barclays.html): rank #48, UK, 4 AI deployments tracked
+- [Lloyds Banking Group](https://bankingonai.deepanjanguha.work/bank-lloyds-banking-group.html): rank #49, UK, 3 AI deployments tracked
+- [Japan Post Bank](https://bankingonai.deepanjanguha.work/bank-japan-post-bank.html): rank #50, Japan, 1 AI deployments tracked
+- [First Abu Dhabi Bank](https://bankingonai.deepanjanguha.work/bank-first-abu-dhabi-bank.html): rank #51, UAE, 3 AI deployments tracked
+- [Industrial Bank](https://bankingonai.deepanjanguha.work/bank-industrial-bank.html): rank #52, China, 1 AI deployments tracked
+- [Bank of China (Hong Kong)](https://bankingonai.deepanjanguha.work/bank-bank-of-china-hong-kong.html): rank #53, Hong Kong, 3 AI deployments tracked
+- [Deutsche Bank](https://bankingonai.deepanjanguha.work/bank-deutsche-bank.html): rank #54, Germany, 5 AI deployments tracked
+- [NatWest Group](https://bankingonai.deepanjanguha.work/bank-natwest-group.html): rank #55, UK, 4 AI deployments tracked
+- [Emirates NBD](https://bankingonai.deepanjanguha.work/bank-emirates-nbd.html): rank #56, UAE, 2 AI deployments tracked
+- [Nordea Bank](https://bankingonai.deepanjanguha.work/bank-nordea-bank.html): rank #57, Finland, 2 AI deployments tracked
+- [Saudi National Bank](https://bankingonai.deepanjanguha.work/bank-saudi-national-bank.html): rank #58, Saudi Arabia, 0 AI deployments tracked
+- [Truist Financial](https://bankingonai.deepanjanguha.work/bank-truist-financial.html): rank #59, USA, 2 AI deployments tracked
+- [Kotak Mahindra Bank](https://bankingonai.deepanjanguha.work/bank-kotak-mahindra-bank.html): rank #60, India, 2 AI deployments tracked
+- [National Bank of Canada](https://bankingonai.deepanjanguha.work/bank-national-bank-of-canada.html): rank #61, Canada, 2 AI deployments tracked
+- [Standard Chartered](https://bankingonai.deepanjanguha.work/bank-standard-chartered.html): rank #62, UK, 5 AI deployments tracked
+- [Shanghai Pudong Development Bank](https://bankingonai.deepanjanguha.work/bank-shanghai-pudong-development-bank.html): rank #63, China, 3 AI deployments tracked
+- [Crédit Agricole](https://bankingonai.deepanjanguha.work/bank-credit-agricole.html): rank #64, France, 3 AI deployments tracked
+- [Société Générale](https://bankingonai.deepanjanguha.work/bank-societe-generale.html): rank #65, France, 3 AI deployments tracked
+- [Axis Bank](https://bankingonai.deepanjanguha.work/bank-axis-bank.html): rank #66, India, 3 AI deployments tracked
+- [Erste Group Bank](https://bankingonai.deepanjanguha.work/bank-erste-group-bank.html): rank #67, Austria, 3 AI deployments tracked
+- [Fifth Third Bank](https://bankingonai.deepanjanguha.work/bank-fifth-third-bank.html): rank #68, USA, 3 AI deployments tracked
+- [Kuwait Finance House](https://bankingonai.deepanjanguha.work/bank-kuwait-finance-house.html): rank #69, Kuwait, 2 AI deployments tracked
+- [QNB (Qatar National Bank)](https://bankingonai.deepanjanguha.work/bank-qnb-qatar-national-bank.html): rank #70, Qatar, 2 AI deployments tracked
+- [UOB](https://bankingonai.deepanjanguha.work/bank-uob.html): rank #71, Singapore, 3 AI deployments tracked
+- [Swedbank](https://bankingonai.deepanjanguha.work/bank-swedbank.html): rank #72, Sweden, 3 AI deployments tracked
+- [State Street](https://bankingonai.deepanjanguha.work/bank-state-street.html): rank #73, USA, 1 AI deployments tracked
+- [Danske Bank](https://bankingonai.deepanjanguha.work/bank-danske-bank.html): rank #74, Denmark, 3 AI deployments tracked
+- [Commerzbank](https://bankingonai.deepanjanguha.work/bank-commerzbank.html): rank #75, Germany, 3 AI deployments tracked
+- [Abu Dhabi Commercial Bank (ADCB)](https://bankingonai.deepanjanguha.work/bank-abu-dhabi-commercial-bank-adcb.html): rank #76, UAE, 2 AI deployments tracked
+- [SEB (Skandinaviska Enskilda Banken)](https://bankingonai.deepanjanguha.work/bank-seb-skandinaviska-enskilda-banken.html): rank #77, Sweden, 3 AI deployments tracked
+- [Bank Central Asia](https://bankingonai.deepanjanguha.work/bank-bank-central-asia.html): rank #78, Indonesia, 1 AI deployments tracked
+- [KB Financial Group](https://bankingonai.deepanjanguha.work/bank-kb-financial-group.html): rank #79, South Korea, 3 AI deployments tracked
+- [Bank of Jiangsu](https://bankingonai.deepanjanguha.work/bank-bank-of-jiangsu.html): rank #80, China, 2 AI deployments tracked
+- [Ping An Bank](https://bankingonai.deepanjanguha.work/bank-ping-an-bank.html): rank #81, China, 2 AI deployments tracked
+- [Banco Santander Brasil](https://bankingonai.deepanjanguha.work/bank-banco-santander-brasil.html): rank #82, Brazil, 3 AI deployments tracked
+- [BTG Pactual](https://bankingonai.deepanjanguha.work/bank-btg-pactual.html): rank #83, Brazil, 3 AI deployments tracked
+- [Banca Monte dei Paschi di Siena](https://bankingonai.deepanjanguha.work/bank-banca-monte-dei-paschi-di-siena.html): rank #84, Italy, 2 AI deployments tracked
+- [Bank of Ningbo](https://bankingonai.deepanjanguha.work/bank-bank-of-ningbo.html): rank #85, China, 2 AI deployments tracked
+- [ABN AMRO](https://bankingonai.deepanjanguha.work/bank-abn-amro.html): rank #86, Netherlands, 3 AI deployments tracked
+- [PKO Bank Polski](https://bankingonai.deepanjanguha.work/bank-pko-bank-polski.html): rank #87, Poland, 3 AI deployments tracked
+- [Maybank](https://bankingonai.deepanjanguha.work/bank-maybank.html): rank #88, Malaysia, 4 AI deployments tracked
+- [Bank Leumi](https://bankingonai.deepanjanguha.work/bank-bank-leumi.html): rank #89, Israel, 1 AI deployments tracked
+- [Svenska Handelsbanken](https://bankingonai.deepanjanguha.work/bank-svenska-handelsbanken.html): rank #90, Sweden, 0 AI deployments tracked
+- [M&T Bank](https://bankingonai.deepanjanguha.work/bank-m-t-bank.html): rank #91, USA, 1 AI deployments tracked
+- [Capitec Bank](https://bankingonai.deepanjanguha.work/bank-capitec-bank.html): rank #92, South Africa, 3 AI deployments tracked
+- [Huntington Bancshares](https://bankingonai.deepanjanguha.work/bank-huntington-bancshares.html): rank #93, USA, 3 AI deployments tracked
+- [China Everbright Bank](https://bankingonai.deepanjanguha.work/bank-china-everbright-bank.html): rank #94, China, 1 AI deployments tracked
+- [FirstRand](https://bankingonai.deepanjanguha.work/bank-firstrand.html): rank #95, South Africa, 2 AI deployments tracked
+- [OTP Bank](https://bankingonai.deepanjanguha.work/bank-otp-bank.html): rank #96, Hungary, 2 AI deployments tracked
+- [Resona Holdings](https://bankingonai.deepanjanguha.work/bank-resona-holdings.html): rank #97, Japan, 1 AI deployments tracked
+- [Credicorp](https://bankingonai.deepanjanguha.work/bank-credicorp.html): rank #98, Bermuda, 1 AI deployments tracked
+- [Bank Hapoalim](https://bankingonai.deepanjanguha.work/bank-bank-hapoalim.html): rank #99, Israel, 1 AI deployments tracked
+- [BPER Banca](https://bankingonai.deepanjanguha.work/bank-bper-banca.html): rank #100, Italy, 0 AI deployments tracked
 
 ## About
 
-- [About & methodology](https://atlas.deepanjanguha.work/about.html): how deployments are checked and sourced
-- [What's new](https://atlas.deepanjanguha.work/whats-new.html): the latest monthly refresh
+- [About & methodology](https://bankingonai.deepanjanguha.work/about.html): how deployments are checked and sourced
+- [What's new](https://bankingonai.deepanjanguha.work/whats-new.html): the latest monthly refresh
