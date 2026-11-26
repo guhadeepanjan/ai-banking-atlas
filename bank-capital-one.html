@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Capital One AI strategy and deployments — Banking on AI</title>
+<meta name="description" content="How Capital One is using AI: 2 AI, machine learning and agentic AI deployments, strongest in Contact Centre, explained in plain language with the source for every claim. Banking on AI.">
+<link rel="canonical" href="https://atlas.deepanjanguha.work/bank-capital-one.html">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Banking on AI">
+<meta property="og:title" content="Capital One AI strategy and deployments — Banking on AI">
+<meta property="og:description" content="How Capital One is using AI: 2 AI, machine learning and agentic AI deployments, strongest in Contact Centre, explained in plain language with the source for every claim. Banking on AI.">
+<meta property="og:url" content="https://atlas.deepanjanguha.work/bank-capital-one.html">
+<meta property="og:image" content="https://atlas.deepanjanguha.work/og-cover.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Capital One AI strategy and deployments — Banking on AI">
+<meta name="twitter:description" content="How Capital One is using AI: 2 AI, machine learning and agentic AI deployments, strongest in Contact Centre, explained in plain language with the source for every claim. Banking on AI.">
+<meta name="twitter:image" content="https://atlas.deepanjanguha.work/og-cover.jpg">
+<meta name="theme-color" content="#163300">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Banking on AI", "item": "https://atlas.deepanjanguha.work/"}, {"@type": "ListItem", "position": 2, "name": "Banks", "item": "https://atlas.deepanjanguha.work/"}, {"@type": "ListItem", "position": 3, "name": "Capital One", "item": "https://atlas.deepanjanguha.work/bank-capital-one.html"}]}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#163300;--green:#9fe870;--green-dark:#2ead4b;--tint:#f2f5f0;--card:#fff;--muted:#5d7079;--line:#e3eae0;--radius:24px}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Inter',system-ui,-apple-system,'Segoe UI',sans-serif;background:var(--tint);color:var(--ink);line-height:1.55;-webkit-font-smoothing:antialiased}
+.wrap{max-width:980px;margin:0 auto;padding:0 24px}
+header.site{position:sticky;top:0;z-index:40;background:rgba(242,245,240,.92);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+.header-in{display:flex;align-items:center;justify-content:space-between;height:64px;max-width:980px;margin:0 auto;padding:0 24px}
+.wordmark{font-weight:900;font-size:20px;letter-spacing:-.02em;color:var(--ink);text-decoration:none}
+.wordmark span{color:var(--green-dark)}
+.byline{font-size:13px;font-weight:600;color:var(--muted)}
+.crumbs{font-size:13.5px;font-weight:600;color:var(--muted);margin:22px 0 10px}
+.crumbs a{color:var(--green-dark);text-decoration:none}
+h1{font-size:clamp(28px,4.4vw,44px);font-weight:900;line-height:1.1;letter-spacing:-.03em}
+.meta{color:var(--muted);font-weight:600;font-size:15px;margin-top:8px}
+.answer{font-size:17px;color:#33413a;margin:16px 0 4px;max-width:760px}
+.takeaway{margin:10px 0 2px;font-size:15.5px;color:#33413a}
+.note{color:var(--muted);font-size:13.5px;margin-top:4px}
+.chips{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0 4px}
+.chip{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:9px 15px;font-size:13.5px;font-weight:700}
+.chip b{font-size:16px}
+h2.seg{font-size:19px;font-weight:900;letter-spacing:-.01em;margin:30px 0 2px;display:flex;align-items:center;gap:9px}
+h2.seg::before{content:"";width:10px;height:10px;border-radius:3px;background:var(--green);flex:none}
+.story{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:20px 22px;margin-top:14px}
+.story h3{font-size:16.5px;font-weight:800;line-height:1.35;margin-top:6px}
+.badges{display:flex;gap:6px;flex-wrap:wrap}
+.bdg{font-size:11.5px;font-weight:800;border-radius:999px;padding:2.5px 10px;letter-spacing:.01em}
+.st-live{background:#e2f5d9;color:#1e6b1e}.st-rolling{background:#fdf0d3;color:#8a5a00}.st-announced{background:#e8ecef;color:#4a5a63}
+.bdg.seg{background:#eef3ec;color:#33413a}.bdg.new{background:var(--green);color:var(--ink)}
+.ddate{display:inline-block;margin-top:7px;font-size:12px;font-weight:700;color:var(--green-dark);background:#eaf7e9;border-radius:999px;padding:2px 9px}
+.brief{margin-top:9px;font-size:15px;color:#33413a}
+.story h4{font-size:12px;font-weight:800;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);margin:14px 0 3px}
+.story p.sec{font-size:14.5px;color:#33413a}
+.src{margin-top:12px;font-size:12.5px;color:var(--muted);font-weight:600}
+.src a{color:var(--green-dark)}
+.notice{background:var(--card);border:1px dashed #b9cbb2;border-radius:var(--radius);padding:24px 26px;margin:20px 0 6px;font-size:15.5px;color:#33413a}
+.faq{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:24px 28px;margin:26px 0 6px}
+.faq h2{font-size:19px;font-weight:900;margin-bottom:8px}
+.faq h3{font-size:15px;font-weight:800;margin-top:14px}
+.faq p{font-size:14.5px;color:#33413a;margin-top:3px}
+.pagenav{display:flex;flex-wrap:wrap;gap:10px;margin:30px 0 6px}
+.pagenav a{background:var(--card);border:1px solid var(--line);border-radius:999px;padding:9px 17px;font-size:14px;font-weight:700;color:var(--ink);text-decoration:none}
+.pagenav a:hover{border-color:var(--green-dark)}
+.pagenav a.primary{background:var(--green);border-color:var(--green)}
+footer.site{padding:30px 0 44px;color:var(--muted);font-size:13.5px;font-weight:600;text-align:center}
+footer.site a{color:var(--green-dark);text-decoration:none;font-weight:700}
+.prose{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:28px 32px;margin:20px 0 6px}
+.prose h2{font-size:19px;font-weight:900;margin:20px 0 6px}.prose h2:first-child{margin-top:0}
+.prose p{font-size:15px;color:#33413a;margin-top:6px}
+.prose ul{margin:8px 0 0 20px;font-size:15px;color:#33413a}
+.prose li{margin-top:4px}
+.prose a{color:var(--green-dark)}
+@media(max-width:640px){.story{padding:16px}.faq,.prose{padding:20px}}
+</style>
+</head>
+<body>
+<header class="site"><div class="header-in"><a class="wordmark" href="index.html">Banking on <span>AI</span></a><span class="byline">By Deepanjan Guha</span></div></header>
+<main class="wrap">
+<nav class="crumbs"><a href="index.html">Banking on AI</a> &rsaquo; <a href="index.html">Banks</a> &rsaquo; Capital One</nav><h1>Capital One</h1><p class="meta">Rank #29 of the world&rsquo;s top 100 pure banks &middot; USA &middot; Market value US$109.09bn (as of 25 Nov 2026)</p><p class="takeaway"><b>2 deployments tracked</b> &middot; strongest in <b>Contact Centre</b> (1) &middot; latest: <b>March 2025</b></p><p class="note">Coverage depth reflects public disclosure, not total AI activity.</p><div class="chips"><span class="chip"><b>2</b> deployments tracked</span><span class="chip"><b>2</b> live</span><span class="chip"><b>2</b> segments</span></div><h2 class="seg">Retail Banking</h2><article class="story" id="story-97"><div class="badges"><span class="bdg st-live">Live</span><span class="bdg seg">Retail Banking</span></div><h3>Chat Concierge: multi-agent assistant for car buying</h3><span class="ddate">Announced January 2025</span><p class="brief">Capital One launched Chat Concierge on car dealers&#x27; websites to help shoppers research cars and book test drives. It was the bank&#x27;s first customer-facing agentic AI (software that carries out tasks on its own).</p><h4>What it is</h4><p class="sec">Chat Concierge works through Capital One&#x27;s Auto Navigator platform on participating dealers&#x27; websites. Fast Company reported its launch on 31 January 2025, and Capital One published its engineering account of the system in March 2025.</p><h4>How it works</h4><p class="sec">Several AI agents work together, understanding what the shopper wants, reasoning about options, validating answers and explaining them. They answer questions, compare vehicles, and complete tasks such as scheduling a test drive, around the clock.</p><h4>Technology used</h4><p class="sec">Capital One&#x27;s proprietary multi-agent framework (MACAW) on fine-tuned open-weight (Llama-based) models customised in-house.</p><h4>Benefit reported (Measured result)</h4><p class="sec">Dealers using Chat Concierge reported a 55% improvement in engagement and serious-lead metrics, as reported by Fast Company.</p><p class="src">Source (Independent reporting): <a href="https://www.fastcompany.com/91270070/capital-one-car-buying" rel="noopener" target="_blank">Capital One&#x27;s new AI agent will help you buy your next car&quot; (Fast Company, 31 January 2025)</a></p></article><h2 class="seg">Contact Centre</h2><article class="story" id="story-98"><div class="badges"><span class="bdg st-live">Live</span><span class="bdg seg">Contact Centre</span></div><h3>Generative AI gives customer service agents real-time policy answers</h3><span class="ddate">Announced March 2025</span><p class="brief">Capital One built its generative AI servicing tool that lets customer service agents find the right policy answer in real time, while they are helping a customer. Agents no longer search documents by hand mid-call.</p><h4>What it is</h4><p class="sec">Capital One described the proprietary tool in its own technology publication in March 2025, and presented the platform at NVIDIA&#x27;s GTC 2025 conference. The bank said the tool had been rolled out across multiple business units.</p><h4>How it works</h4><p class="sec">The tool uses retrieval-augmented generation (RAG): it searches Capital One&#x27;s internal knowledge with hybrid keyword and vector search, then generates an answer grounded in that content. For example, an agent can instantly check whether a declined card transaction counts against a customer&#x27;s daily card limit.</p><h4>Technology used</h4><p class="sec">Capital One&#x27;s in-house RAG platform: retrieval on AWS OpenSearch and LLM inference on Amazon SageMaker with NVIDIA GPUs, using open-weight models customised by the bank.</p><h4>Benefit reported (Not stated)</h4><p class="sec">The source does not state a benefit. Capital One said the tool helps agents resolve customer questions &quot;more quickly and efficiently&quot;, with no figure given.</p><p class="src">Source (Bank announcement): <a href="https://www.capitalone.com/tech/ai/transforming-financial-services/" rel="noopener" target="_blank">How AI Is Transforming Financial Services&quot; (Capital One technology publication, 26 March 2025)</a></p></article><nav class="pagenav"><a class="primary" href="index.html#bank=capital-one">Open in the interactive dashboard</a><a href="bank-bank-of-montreal.html">#28 Bank of Montreal</a><a href="bank-bnp-paribas.html">#30 BNP Paribas</a><a href="index.html">All 100 banks</a></nav>
+</main>
+<footer class="site">Banking on AI &middot; By Deepanjan Guha &middot; Data as of 25 November 2026 &middot; <a href="about.html">About &amp; methodology</a> &middot; <a href="whats-new.html">What&rsquo;s new</a></footer>
+</body>
+</html>
