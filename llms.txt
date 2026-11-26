@@ -1,18 +1,18 @@
 # Banking on AI
 
-> A curated, source-verified record of AI, machine learning and agentic AI deployments at the world's top 100 pure banks by market capitalisation (December 2024 – November 2026), classified by business segment, with status (Live / Rolling out / Announced), source type and reported benefit for each of the 318 deployments. Refreshed monthly. Curated by Deepanjan Guha.
+> A curated, fully sourced record of AI, machine learning and agentic AI deployments at the world's top 100 pure banks by market capitalisation (December 2024 – November 2026), classified by business segment, with status (Live / Rolling out / Announced), source type and reported benefit for each of the 318 deployments. Refreshed monthly. Curated by Deepanjan Guha.
 
 ## Segments
 
-- [AI in Retail Banking](https://atlas.deepanjanguha.work/segment-retail-banking.html): 39 verified deployments
-- [AI in Private Banking](https://atlas.deepanjanguha.work/segment-private-banking.html): 15 verified deployments
-- [AI in Corporate Banking](https://atlas.deepanjanguha.work/segment-corporate-banking.html): 35 verified deployments
-- [AI in Institutional Banking](https://atlas.deepanjanguha.work/segment-institutional-banking.html): 13 verified deployments
-- [AI in Treasury](https://atlas.deepanjanguha.work/segment-treasury.html): 14 verified deployments
-- [AI in Trade Finance](https://atlas.deepanjanguha.work/segment-trade-finance.html): 12 verified deployments
-- [AI in Payments & Remittances](https://atlas.deepanjanguha.work/segment-payments-remittances.html): 23 verified deployments
-- [AI in Contact Centre](https://atlas.deepanjanguha.work/segment-contact-centre.html): 56 verified deployments
-- [AI in Enterprise-wide](https://atlas.deepanjanguha.work/segment-enterprise-wide.html): 111 verified deployments
+- [AI in Retail Banking](https://atlas.deepanjanguha.work/segment-retail-banking.html): 39 deployments
+- [AI in Private Banking](https://atlas.deepanjanguha.work/segment-private-banking.html): 15 deployments
+- [AI in Corporate Banking](https://atlas.deepanjanguha.work/segment-corporate-banking.html): 35 deployments
+- [AI in Institutional Banking](https://atlas.deepanjanguha.work/segment-institutional-banking.html): 13 deployments
+- [AI in Treasury](https://atlas.deepanjanguha.work/segment-treasury.html): 14 deployments
+- [AI in Trade Finance](https://atlas.deepanjanguha.work/segment-trade-finance.html): 12 deployments
+- [AI in Payments & Remittances](https://atlas.deepanjanguha.work/segment-payments-remittances.html): 23 deployments
+- [AI in Contact Centre](https://atlas.deepanjanguha.work/segment-contact-centre.html): 56 deployments
+- [AI in Enterprise-wide](https://atlas.deepanjanguha.work/segment-enterprise-wide.html): 111 deployments
 
 ## Banks
 
@@ -119,5 +119,5 @@
 
 ## About
 
-- [About & methodology](https://atlas.deepanjanguha.work/about.html): how deployments are verified
+- [About & methodology](https://atlas.deepanjanguha.work/about.html): how deployments are checked and sourced
 - [What's new](https://atlas.deepanjanguha.work/whats-new.html): the latest monthly refresh

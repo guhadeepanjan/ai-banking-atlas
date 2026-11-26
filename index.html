@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Banking on AI — How the world's biggest banks are using AI</title>
-<meta name="description" content="Banking on AI: pick a bank from the world's top 100 by market value and see its latest AI, machine learning and agentic AI deployments — by segment, in plain language, with the source for every claim. Every deployment verified, every claim sourced.">
+<meta name="description" content="Banking on AI: pick a bank from the world's top 100 by market value and see its latest AI, machine learning and agentic AI deployments — by segment, in plain language, with the source for every claim. Every deployment sourced, every claim traceable.">
 <link rel="canonical" href="https://atlas.deepanjanguha.work/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Banking on AI">
@@ -22,7 +22,7 @@
 <script type="application/ld+json">
 {"@context":"https://schema.org","@graph":[
 {"@type":"WebSite","name":"Banking on AI","url":"https://atlas.deepanjanguha.work/","description":"AI, machine learning and agentic AI deployments at the world's top 100 banks by market value, organised by business segment, in plain language, with the source for every claim.","author":{"@type":"Person","name":"Deepanjan Guha"}},
-{"@type":"Dataset","name":"Banking on AI — AI deployments at the world's top 100 banks","description":"A curated, source-verified record of AI, machine learning and agentic AI deployments at the world's top 100 pure banks by market capitalisation, classified by business segment with status, source type and reported benefit for each deployment.","url":"https://atlas.deepanjanguha.work/","creator":{"@type":"Person","name":"Deepanjan Guha"},"dateModified":"2026-11-26","keywords":"AI in banking, agentic AI, machine learning, top 100 banks, bank AI deployments, generative AI banking"}
+{"@type":"Dataset","name":"Banking on AI — AI deployments at the world's top 100 banks","description":"A curated, fully sourced record of AI, machine learning and agentic AI deployments at the world's top 100 pure banks by market capitalisation, classified by business segment with status, source type and reported benefit for each deployment.","url":"https://atlas.deepanjanguha.work/","creator":{"@type":"Person","name":"Deepanjan Guha"},"dateModified":"2026-11-26","keywords":"AI in banking, agentic AI, machine learning, top 100 banks, bank AI deployments, generative AI banking"}
 ]}
 </script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -166,9 +166,9 @@ footer.site a{color:var(--green-dark);text-decoration:none;font-weight:700}foote
 
 <main class="wrap">
   <section class="hero">
-    <h1>How the world&rsquo;s biggest banks are <span class="hl">actually using AI</span></h1>
+    <h1>How the world&rsquo;s biggest banks are <span class="hl">using &mdash; and announcing &mdash; AI</span></h1>
     <p>Pick a bank and see its latest artificial intelligence, machine learning and agentic AI deployments &mdash; organised by business segment, explained in plain language, with the source behind every claim.</p>
-    <p class="tagline">Every deployment verified. Every claim sourced.</p>
+    <p class="tagline">Every deployment sourced. Every claim traceable.</p>
     <div class="stats">
       <div class="stat"><b>100</b><span>Banks tracked</span></div>
       <div class="stat"><b id="statDeps">318</b><span>Deployments tracked</span></div>
@@ -185,7 +185,7 @@ footer.site a{color:var(--green-dark);text-decoration:none;font-weight:700}foote
 
   <section>
     <h2 class="secttl">Latest deployments</h2>
-    <p class="secsub">The most recent verified deployments across all 100 banks, newest first.</p>
+    <p class="secsub">The most recent deployments tracked across all 100 banks, newest first.</p>
     <div class="latestrow" id="latestRow"></div>
   </section>
 
@@ -320,7 +320,7 @@ function renderBank(name){
   const deps = depsOf(name);
   let h = bankHead(bank, deps);
   if (!deps.length) {
-    h += '<div class="notice"><strong>No deployment tracked yet.</strong> This bank has been researched, but no AI deployment could be verified from a credible source for the December 2024 – November 2026 window. Banking on AI is refreshed monthly, so this can change.</div>';
+    h += '<div class="notice"><strong>No deployment tracked yet.</strong> This bank has been researched, but no AI deployment could be traced to a credible source for the December 2024 – November 2026 window. Banking on AI is refreshed monthly, so this can change.</div>';
     area.innerHTML = h; return;
   }
   const filled = SEGMENTS.filter(seg => deps.some(d => d.segment === seg));
@@ -352,7 +352,7 @@ function renderSegment(seg){
   let h = '<h2 class="viewtitle">' + esc(seg) + '</h2>' +
           '<p class="viewsub">' + all.length + ' deployment' + (all.length === 1 ? '' : 's') + ' across ' + names.length + ' bank' + (names.length === 1 ? '' : 's') + ' &middot; December 2024 – November 2026</p>';
   if (!all.length) {
-    h += '<div class="notice"><strong>No deployment tracked yet.</strong> No AI deployment in this segment could be verified from a credible source at any of the top 100 banks for the December 2024 – November 2026 window. Banking on AI is refreshed monthly, so this can change.</div>';
+    h += '<div class="notice"><strong>No deployment tracked yet.</strong> No AI deployment in this segment could be traced to a credible source at any of the top 100 banks for the December 2024 – November 2026 window. Banking on AI is refreshed monthly, so this can change.</div>';
     area.innerHTML = h; return;
   }
   names.forEach(name => {
@@ -703,7 +703,7 @@ function buildBankPdf(name){
   });
   y += boxH + 26;
   if (!deps.length) {
-    para("No deployment tracked yet. This bank has been researched, but no AI deployment could be verified from a credible source for the December 2024 - November 2026 window. The Atlas is refreshed monthly, so this can change.", 10.5, "F1", INK, 5);
+    para("No deployment tracked yet. This bank has been researched, but no AI deployment could be traced to a credible source for the December 2024 - November 2026 window. The Atlas is refreshed monthly, so this can change.", 10.5, "F1", INK, 5);
   }
   SEGMENTS.forEach(function(seg){
     var list = sortedDeps(deps.filter(d => d.segment === seg));
